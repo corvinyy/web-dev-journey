@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Trying to center the content*/
+body {
+    
+    border: 10px solid black; /* Border around the body */
+    background-color: #9bd6c4;
+    
+}
+
+#container {
+    display: flex; /* Use flexbox for centering */
+    min-height: 100vh; /* Full viewport height */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    flex-direction: column; /* Stack items vertically */
+}
+
+#textbox {
+    border: 5px dotted rgb(153, 149, 179); 
+    border-radius: 20px; /* Rounded corners */
+    padding: 10px; /* Padding inside the text div */
+    background-color: #ffffff;
+}
+
+#text {
+    font-size: 50px; /* Font size for the text */
+    color: #333; /* Text color */
+    text-align: center; /* Center the text */  
+    margin-bottom: 10px; /* Space below the text */
+}
+
+#box {
+    border: 5px inset rgb(158, 147, 230); 
+    border-radius: 20px; /* Rounded corners */
+    padding: 20px; /* Padding inside the box */
+    background-color: #f0f0f0;
+    margin-top: 40px; /* Space above the box */
+}
+
+#border-test { /* Style for the first border test */
+    border: 5px dashed rgb(30, 1, 255); /* Border color */
+    padding: 20px; /* Padding inside the border */
+    margin: 10px; /* Margin outside the border */
+    background-color: #f0f0f0; 
+    position: relative;
+}
+
+#border-test-2 {
+    border: 5px groove rgb(255, 1, 30);
+    border-bottom-right-radius: 30px; /* Rounded corner */
+    border-top-left-radius: 30px; /* Rounded corner */
+    padding: 10px; /* Trying different padding */
+    background-color: #f0f0f0; 
+    position: relative;
+}
