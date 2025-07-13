@@ -1,0 +1,7 @@
+# LEARNING:
+
+    - BOX MODEL
+    - PADDING
+    - MARGIN
+    - BORDER TYPES
+    - CENTRALIZE DIVS
