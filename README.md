@@ -27,6 +27,14 @@ Each folder represents a specific topic or learning module, including structure,
 />
 <img 
     align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="vscode" 
     title="Visual Studio Code"
     width="30px" 
