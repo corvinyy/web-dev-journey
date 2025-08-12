@@ -1,0 +1,15 @@
+#header {
+    background-color: yellow;
+}
+
+.curse {
+    background-color: lightgrey;
+}
+
+.curse-webdev {
+    background-color: lightblue;
+}
+
+#footer {
+    border: 2px solid rgb(148, 148, 148);
+}
