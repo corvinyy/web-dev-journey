@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url(fonts/christmas_19/Christmas.otf);
+}
+
+h1 {
+    font-family: MyCustomFont, Arial, Helvetica, sans-serif;
+}
