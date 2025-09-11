@@ -1,0 +1,27 @@
+.box {
+    width: 700px;
+    height: 300px;
+    border: 3px dotted red;
+    /*background-color: lightgray;*/
+    background-image: url('imgs/fundo-css-escuro.png');
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.box2 {
+    width: 700px;
+    height: 300px;
+    border: 3px dotted rgb(0, 150, 20);
+    background-color: rgb(188, 228, 255);
+    background-image: url('imgs/fundo-css-escuro.png');
+    background-repeat: repeat-x;
+}
+
+.box3 {
+    width: 700px;
+    height: 300px;
+    border: 3px dotted rgb(22, 8, 209);
+    background-image: url('imgs/fundo-css-escuro.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
