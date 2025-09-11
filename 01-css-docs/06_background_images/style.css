@@ -24,4 +24,6 @@
     background-image: url('imgs/fundo-css-escuro.png');
     background-repeat: no-repeat;
     background-position: right bottom;
+    /* or background-position-x: right*/
+    /* or background-position-y: bottom;*/
 }
