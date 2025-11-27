@@ -102,9 +102,9 @@ Each folder represents a specific topic or learning module, including structure,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 /> <br>
-- [ ] Basic syntax (variables, operators, loops)
+- [✔️] Basic syntax (variables, arrays, operators, loops)
 - [ ] Classes
-- [ ] Functions and scope
+- [✔️] Functions and scope
 - [ ] DOM manipulation
 - [ ] Events
 - [ ] Promises and Async/Await
